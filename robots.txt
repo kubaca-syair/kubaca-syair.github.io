@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://kubaca-syair.github.io/sitemap.xml
